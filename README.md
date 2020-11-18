@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Gatsby and Flutter.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on open source projects.
 
 - 👨‍💻 All of my projects are available at [irangarcia.dev](https://irangarcia.dev)
 
