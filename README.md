@@ -1,7 +1,4 @@
-<h2 align="left">Hey! 👋 I'm Iran.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irangarcia&label=Profile%20views&color=0e75b6&style=flat" alt="irangarcia" /> </P>
-
-
+<h2 align="left">Hey! 👋 I'm Iran.</h2>
 
 - 🔭 I’m currently working on [Avanti](https://penseavanti.com.br).
 
