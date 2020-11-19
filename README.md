@@ -12,8 +12,8 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/irangarciaj" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="irangarciaj" height="25" width="35" /></a>
-<a href="https://twitter.com/oirangarcia" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="oirangarcia" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/irangarciaj" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="irangarciaj" height="25" width="35" /></a>
+<a href="https://twitter.com/oirangarcia" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="oirangarcia" height="25" width="35" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
