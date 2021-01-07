@@ -1,15 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hey, welcome to my page! I'm Iran, <strong>Front-end Developer</strong> from Florianópolis, Brazil. 🇧🇷 <br>
+  Hey, welcome to my page! <br> I'm Iran, <strong>Front-end Developer</strong> from Florianópolis, Brazil. 🇧🇷 <br>
 </p>
 
 <p align="left">
   🎨 Skills: <strong>JavaScript, TypeScript, React, Gatsby, Sass and Tailwind;</strong>
-</p><br><br>
-
+</p>
 <p align="left">
-  📝 Let's get in touch!: ⤵️
+  ✍️ You can check my latest blog post <a href="https://irangarcia.dev">here</a>.
+</p>
+ 
+<p align="left">
+  📨 Let's get in touch!: ⤵️
 </p>
 
 <p align="left">
