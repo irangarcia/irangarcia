@@ -12,7 +12,7 @@
 </p>
  
 <p align="left">
-  ✉️ Let's get in touch!: ⤵️
+  ✉️ Let's get in touch!: ↴
 </p>
 
 <p align="left">
