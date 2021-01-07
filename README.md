@@ -8,7 +8,7 @@
   🎨 Skills: <strong>JavaScript, TypeScript, React, Gatsby, Sass and Tailwind;</strong>
 </p>
 <p align="left">
-  ✍️ You can check my latest blog post <a href="https://irangarcia.dev">here</a>.
+  ✍️ You can check my latest blog posts <a href="https://irangarcia.dev">here</a>.
 </p>
  
 <p align="left">
