@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hey, welcome to my page! <br> I'm Iran, <strong>Front-end Developer Jr</strong> from Florianópolis, Brazil. 🇧🇷 <br>
+  Hey, welcome to my page! <br> I'm Iran, <strong>Front-end Developer Intern</strong> from Florianópolis, Brazil. 🇧🇷 <br>
 </p>
 
 <p align="left">
