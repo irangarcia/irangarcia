@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🎨 Skills: <strong>JavaScript, TypeScript, React, Next.js and Tailwind;</strong>
+  🎨 Skills: <strong>JavaScript, TypeScript, React, Next.js, Styled-components and Tailwind;</strong>
 </p>
 <p align="left">
   ✍️ You can check my latest blog posts <a href="https://irangarcia.dev">here</a>.
