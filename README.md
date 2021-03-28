@@ -16,11 +16,11 @@
 </p>
 
 <p align="left">
-  <a href="mailto:hello@irangarcia.dev">
+  <a href="mailto:irangarciaj@gmail.com">
    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 
   <a href="https://www.linkedin.com/in/irangarciaj" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irangarciaj" /></a>
  
   <a href="https://twitter.com/irangarciaz" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
