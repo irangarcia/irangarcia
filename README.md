@@ -1,6 +1,6 @@
-<h2 align="center"> 
+<h3 align="center"> 
   Hey, welcome to my page! 👋
-</h2>
+</h3>
 
 <p align="center">
    I'm Iran, <strong>front-end junior</strong> from Florianópolis, Brazil. 🇧🇷 <br>
