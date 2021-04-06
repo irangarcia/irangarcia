@@ -1,12 +1,12 @@
-<h3> 
+<h3 align="center"> 
   Hey, welcome to my page! 👋
 </h3>
 
-<p>
+<p align="center">
    I'm Iran, <strong>front-end junior</strong> from Florianópolis, Brazil. 🇧🇷 <br>
 </p>
 
-<p>
+<p align="center">
   🎨 Technologies:
 </p>
 
@@ -26,7 +26,7 @@
   ✍️ You can check my latest blog posts <a href="https://irangarcia.dev">here</a>.
 </p>
  
-<p>
+<p align="center">
   ✉️ Let's get in touch!: ↴
 </p>
 
