@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
-<p align="left"> 
-  Hey, welcome to my page! <br> I'm Iran, <strong>Front-end Developer Intern</strong> from Florianópolis, Brazil. 🇧🇷 <br>
+<h3 align="left"> 
+  Hey, welcome to my page! 👋
+</h3>
+
+<p align="left">
+   I'm Iran, <strong>front-end junior</strong> from Florianópolis, Brazil. 🇧🇷 <br>
 </p>
 
 <p align="left">
   
-  🎨 Skills:
-  <br/>
-  <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo"/>
-  <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Logo"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Logo"/>
+  🎨 Currently focused:
   <br/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Logo"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="ReactJS Logo"/>
