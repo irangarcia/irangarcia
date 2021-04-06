@@ -1,19 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
-
-<h3 align="left"> 
+<h3> 
   Hey, welcome to my page! 👋
 </h3>
 
-<p align="left">
+<p>
    I'm Iran, <strong>front-end junior</strong> from Florianópolis, Brazil. 🇧🇷 <br>
 </p>
 
-<p align="left">
+<p>
   🎨 Technologies:
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="ReactJS Logo"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Logo"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Logo"/>
@@ -24,15 +22,15 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-components Logo"/>
   <br/>
 </p>
-<p align="left">
+<p>
   ✍️ You can check my latest blog posts <a href="https://irangarcia.dev">here</a>.
 </p>
  
-<p align="left">
+<p>
   ✉️ Let's get in touch!: ↴
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:irangarciaj@gmail.com">
    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 
@@ -42,5 +40,4 @@
   <a href="https://twitter.com/irangarciaz" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   
-   
 </p>
