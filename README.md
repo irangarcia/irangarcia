@@ -9,9 +9,11 @@
 </p>
 
 <p align="left">
-  
   🎨 Technologies:
-  <br/><br/>
+</p>
+
+
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Logo"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="ReactJS Logo"/>
