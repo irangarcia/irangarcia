@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-components Logo"/>
   <br/>
 </p>
-<p>
+<p align="center">
   ✍️ You can check my latest blog posts <a href="https://irangarcia.dev">here</a>.
 </p>
  
