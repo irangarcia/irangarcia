@@ -1,14 +1,14 @@
-<h3 align="center"> 
+<h2 align="center"> 
   Hey, welcome to my page! 👋
-</h3>
+</h2>
 
 <p align="center">
    I'm Iran, <strong>front-end junior</strong> from Florianópolis, Brazil. 🇧🇷 <br>
 </p>
 
-<p align="center">
+<h4 align="center">
   🎨 Technologies:
-</p>
+</h4>
 
 
 <p align="center">
@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-components Logo"/>
   <br/>
 </p>
-<p align="center">
+<h4 align="center">
   ✍️ You can check my latest blog posts <a href="https://irangarcia.dev">here</a>.
-</p>
+</h4>
  
-<p align="center">
+<h4 align="center">
   ✉️ Let's get in touch!: ↴
-</p>
+</h4>
 
 <p align="center">
   <a href="mailto:irangarciaj@gmail.com">
