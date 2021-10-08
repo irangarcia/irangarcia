@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="me.png" alt="A code style information about Iran Garcia"  width="800" />
+  <img src="me.png" alt="A code style information about Iran Garcia"  width="750" />
   <br/>
   <a href="https://twitter.com/irangarciaz">
     <img alt="Twitter Logo" src="https://img.shields.io/badge/Twitter-021627?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
