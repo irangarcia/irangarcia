@@ -1,4 +1,5 @@
 <p align="center">
+  <!–
   <img src="me.png" alt="A code style information about Iran Garcia"  width="750" />
   <br/>
   <a href="https://twitter.com/irangarciaz">
