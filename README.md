@@ -6,6 +6,5 @@ My passion lies in developing pixel-perfect user interfaces that not only meet t
 
 My journey as a Frontend Software Engineer has equipped me with a understanding of SaaS products and the importance of maintaining software quality. I am a firm believer in achieving excellence through rigorous code reviews and the implementation of automated tests, be it unit tests or end-to-end tests.
 
-Email → irangarciaj@gmail.com
-GitHub → github.com/irangarcia
-LinkedIn → linkedin.com/in/oirangarcia
+Email → irangarciaj@gmail.com <br/>
+LinkedIn → [linkedin.com/in/oirangarcia](https://linkedin.com/in/oirangarcia)
