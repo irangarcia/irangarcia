@@ -1,6 +1,6 @@
 Hey! 
 
-I'm a seasoned Frontend Engineer and Tech Lead with +3 years of experience in the software industry. Currently, I thrive as a key contributor at Croct, a fast-paced startup dedicated to real-time personalization solutions. 
+I'm a seasoned Frontend Engineer and Technical Lead with +3 years of experience in the software industry. Currently, I thrive as a key contributor at Croct, a fast-paced startup dedicated to real-time personalization solutions. 
 
 My passion lies in developing pixel-perfect user interfaces that not only meet the highest quality standards but also prioritize performance and accessibility.
 
