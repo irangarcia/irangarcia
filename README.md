@@ -1,5 +1,10 @@
-Hi, I'm Iran.
+hi, i'm iran — a design engineer building products that balance performance, design, and user delight.
 
-I'm a Software Engineer helping build Croct.
+my work sits at the intersection of front-end architecture and product thinking. 
 
-Feel free to send me an [email](mailto:me@irangarcia.co) or check out some writing and snaps on my [website](https://irangarcia.co). 
+i care about performance, accessibility, and details that make ui feel solid.
+
+### connect
+twitter → [irangarci4](https://x.com/irangarci4)  
+portfolio → [irangarcia.co](https://irangarcia.co)  
+email → [irangarciaj@gmail.com](mailto:irangarciaj@gmail.com)
