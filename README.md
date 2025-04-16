@@ -1,4 +1,4 @@
-hi, i'm iran — a design engineer building products that balance performance, design, and user delight.
+hi, i'm Iran — a design engineer building products that balance performance, design, and user delight.
 
 my work lives at the intersection of front-end architecture and product thinking. 
 
