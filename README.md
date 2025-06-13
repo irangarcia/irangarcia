@@ -1,8 +1,8 @@
-hi, i'm Iran — a frontend engineer building products that balance performance, design, and user delight.
+hi, i'm Iran — a software engineer building products that balance performance, usability, and maintainability.
 
-my work lives at the intersection of front-end architecture and product thinking. 
+my work lives at the intersection of backend systems, frontend architecture, and product thinking.
 
-i care about performance, accessibility, and details that make ui feel solid.
+i care about well-structured code, fast interfaces, and the small details that create a smooth experience across the stack.
 
 ### connect
 website → [irangarcia.co](https://irangarcia.co)  
